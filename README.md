@@ -58,7 +58,7 @@ pip install pandas numpy seaborn scikit-learn matplotlib
 Buka Jupyter Notebook dan jalankan `VehicleQualityPerformance.ipynb` untuk melihat hasil analisis secara langsung.
 
 ```bash
-jupyter notebook CarEvaluationPrediction.ipynb
+jupyter notebook VehicleQualityPerformance.ipynb
 ```
 
 ## 📈 Hasil Akhir
